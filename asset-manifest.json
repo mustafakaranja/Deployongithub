@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Deployongithub/static/js/main.0f5ef454.chunk.js",
-    "main.js.map": "/Deployongithub/static/js/main.0f5ef454.chunk.js.map",
+    "main.js": "/Deployongithub/static/js/main.f72782a5.chunk.js",
+    "main.js.map": "/Deployongithub/static/js/main.f72782a5.chunk.js.map",
     "runtime-main.js": "/Deployongithub/static/js/runtime-main.59ba4d9b.js",
     "runtime-main.js.map": "/Deployongithub/static/js/runtime-main.59ba4d9b.js.map",
     "static/js/2.faa242f8.chunk.js": "/Deployongithub/static/js/2.faa242f8.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.59ba4d9b.js",
     "static/js/2.faa242f8.chunk.js",
-    "static/js/main.0f5ef454.chunk.js"
+    "static/js/main.f72782a5.chunk.js"
   ]
 }
